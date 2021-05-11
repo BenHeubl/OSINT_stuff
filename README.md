@@ -1,2 +1,4 @@
 # OSINT_stuff
-scripts for OSINT investigations to share
+This is a repo to share scripts for current and future OSINT investigations. 
+
+I thought I put it all into a single repo but might spit them in the future. 
